@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SilverShieldFix", "SilverShieldFix\SilverShieldFix.csproj", "{112A62AD-EE10-4C34-88DE-4B451BA164DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlackMetalOverhaul", "BlackMetalOverhaul\BlackMetalOverhaul.csproj", "{8588142E-1C22-4C6C-8308-5C3967F70EF1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrollArmorRework", "TrollArmorRework\TrollArmorRework.csproj", "{6043E39D-CC70-4B72-B92E-DF74D5547F4B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WoodenBeamFix", "WoodenBeamsFix\WoodenBeamFix.csproj", "{CDB08947-6259-4FFD-87DB-BB5850BB76C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoarCape", "BoarCape\BoarCape.csproj", "{CDB08947-6259-4FFD-87DB-BB5850BB76C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AssetsLoader", "AssetsLoader\AssetsLoader.csproj", "{60D714B1-86A0-43EA-8EF8-BBECE87672DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{112A62AD-EE10-4C34-88DE-4B451BA164DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{112A62AD-EE10-4C34-88DE-4B451BA164DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{112A62AD-EE10-4C34-88DE-4B451BA164DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{112A62AD-EE10-4C34-88DE-4B451BA164DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8588142E-1C22-4C6C-8308-5C3967F70EF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8588142E-1C22-4C6C-8308-5C3967F70EF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8588142E-1C22-4C6C-8308-5C3967F70EF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8588142E-1C22-4C6C-8308-5C3967F70EF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6043E39D-CC70-4B72-B92E-DF74D5547F4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6043E39D-CC70-4B72-B92E-DF74D5547F4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6043E39D-CC70-4B72-B92E-DF74D5547F4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6043E39D-CC70-4B72-B92E-DF74D5547F4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDB08947-6259-4FFD-87DB-BB5850BB76C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDB08947-6259-4FFD-87DB-BB5850BB76C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDB08947-6259-4FFD-87DB-BB5850BB76C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDB08947-6259-4FFD-87DB-BB5850BB76C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDB08947-6259-4FFD-87DB-BB5850BB76C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDB08947-6259-4FFD-87DB-BB5850BB76C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDB08947-6259-4FFD-87DB-BB5850BB76C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDB08947-6259-4FFD-87DB-BB5850BB76C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60D714B1-86A0-43EA-8EF8-BBECE87672DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60D714B1-86A0-43EA-8EF8-BBECE87672DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60D714B1-86A0-43EA-8EF8-BBECE87672DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60D714B1-86A0-43EA-8EF8-BBECE87672DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {56EB5554-E043-4273-A732-60C8D99C07B9}
+	EndGlobalSection
+EndGlobal
